@@ -95,7 +95,7 @@ This is extremely convenient and is made possible through
 ### Order of Styles
 
 What happens now if we want a `Button` that isn't raised? To do that we have to
-the understand the order in which styles are applied.
+understand the order in which styles are applied.
 
 > Internal > Theme > External
 
